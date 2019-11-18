@@ -1,0 +1,31 @@
+набор текстов на русском языке (новости) в формате sqlite
+всего 3196 записей 
+
+каждый текст имеет метку (tag) класса
+
+список меток:
+   auto
+   culture
+   economics
+   health
+   incident
+   politics
+   realty
+   reclama
+   science
+   social
+   sport
+   tech
+   woman
+
+
+
+структура БД:  table data(id text, txt text, tag text)
+
+
+-- 
+Evgeny S. Borisov
+http://www.mechanoid.kiev.ua
+e-mail : nn@mechanoid.kiev.ua
+
+
