@@ -1,0 +1,15 @@
+RelationRecord(
+	items=frozenset({'10820', '10042'}),
+	support=0.04157319850911099,
+	ordered_statistics=[
+		OrderedStatistic(items_base=frozenset({'10042'}),
+						 items_add=frozenset({'10820'}),
+						 confidence=0.2662154696132597,
+						 lift=4.11022216465369),
+		OrderedStatistic(items_base=frozenset({'10820'}),
+						 items_add=frozenset({'10042'}),
+						 confidence=0.6418675902491008,
+						 lift=4.11022216465369)
+	]
+
+)
