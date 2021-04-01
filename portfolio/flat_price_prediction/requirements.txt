@@ -209,6 +209,7 @@ Rtree==0.9.4
 ruamel-yaml==0.15.87
 scikit-image==0.17.2
 scikit-learn @ file:///C:/ci/scikit-learn_1598377018496/work
+scikit-surprise==1.1.1
 scipy @ file:///C:/ci/scipy_1604596260408/work
 seaborn @ file:///tmp/build/80754af9/seaborn_1600553570093/work
 Send2Trash==1.5.0
