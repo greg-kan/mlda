@@ -1,0 +1,160 @@
+    1  mc
+    2  ifconfig
+    3  sudo apt install net-tools
+    4  ifconfig
+    5  ping 192.168.1.6
+    6  ping www.mail.ru
+    7  sudo apt install mc
+    8  mc
+    9  sudo apt install openssh-server
+   10  sudo apt install xrdp
+   11  sudo systemctl enable xrdp
+   12  mc
+   13  sudo apt install gnome-tweak-tool
+   14  gnome-tweaks
+   15  chmod +x ~/.vnc/xstartup
+   16  vncserver -localhost
+   17  sudo apt update
+   18  pt list --upgradable
+   19  apt list --upgradable
+   20  sudo apt upgrade
+   21  sudo apt install xfce4 xfce4-goodies
+   22  sudo apt install tightvncserver
+   23  vncserver
+   24  mc
+   25  mv ~/.vnc/xstartup ~/.vnc/xstartup.bak
+   26  mc
+   27  nano ~/.vnc/xstartup
+   28  mc
+   29  vncserver -kill :1
+   30  vncserver
+   31  vncserver -kill :1
+   32  mc
+   33  vncserver
+   34  vncserver -kill :1
+   35  mc
+   36  sudo mc
+   37  sudo halt
+   38  sudo reboot
+   39  sudo adduser xrdp ssl-cert
+   40  sudo systemctl restart xrdp
+   41  sudo mc
+   42  sudo apt install software-properties-common
+   43  sudo add-apt-repository ppa:deluge-team/stable
+   44  sudo apt install deluge
+   45  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+   46  sudo dpkg -i --force-depends google-chrome-stable_current_amd64.deb
+   47  mc
+   48  sudo shutdown
+   49  shutdown
+   50  sudo shutdown
+   51  seahorse
+   52  sudo adduser xrdp ssl-cert
+   53  sudo mc
+   54  sudo systemctl restart xrdp
+   55  sudo mc
+   56  sudo shutdown
+   57  mc
+   58  pwd
+   59  ls
+   60  ls -l
+   61  ls -la
+   62  ls -l --all
+   63  ls -l 'Рабочий стол'
+   64  ls -l Загрузки
+   65  man ls
+   66  man ls -S
+   67  ls -S
+   68  mkdir mydir
+   69  ls
+   70  rm -r mydir
+   71  ls
+   72  sudo apt update && upgrade
+   73  sudo apt update
+   74  apt list --upgradable
+   75  sudo apt full-upgrade
+   76  locale
+   77  ls
+   78  logout
+   79  cd /tmp
+   80  curl https://repo.anaconda.com/archive/Anaconda3-2020.11-Linux-x86_64.sh --output anaconda.sh
+   81  sudo apt install curl
+   82  curl https://repo.anaconda.com/archive/Anaconda3-2020.11-Linux-x86_64.sh --output anaconda.sh
+   83  ls
+   84  mc
+   85  sha256sum anaconda.sh
+   86  bash anaconda.sh
+   87  mc
+   88  source ~/.bashrc
+   89  conda info
+   90  exit
+   91  anaconda-navigator
+   92  mc
+   93  git clone
+   94  git --version
+   95  mc
+   96  conda config --set auto_activate_base False
+   97  source ~/.bashrc
+   98  conda config --set auto_activate_base True
+   99  source ~/.bashrc
+  100  conda config --set auto_activate_base False
+  101  source ~/.bashrc
+  102  git --version
+  103  sudo apt install git
+  104  git --version
+  105  git config --global user.name "Grigoriy Kanavenko"
+  106  git config --global user.email "g.kanavenko@gmail.com"
+  107  git config --list
+  108  cd projects
+  109* git clone https://github.com/greg-kan/mlda.git
+  110  mc
+  111  exit
+  112  conda config --set auto_activate_base True
+  113  source ~/.bashrc
+  114  anaconda-navigator
+  115  conda config --set auto_activate_base False
+  116  source ~/.bashrc
+  117  conda config --set auto_activate_base True
+  118* 
+  119  sudo iptables -L
+  120  cd projects
+  121  git clone https://github.com/greg-kan/mlda.git
+  122  cd mlda
+  123  ls
+  124  cd SkillFactory
+  125  ls
+  126  cd unit_7
+  127  mkdir txtfiles
+  128  mc
+  129  cd txtfiles
+  130  touch 1.txt
+  131  touch 2.txt
+  132  mc
+  133  cd ..
+  134  ls /txtfiles
+  135  ls txtfiles
+  136  ls -l txtfiles
+  137  ls txtfiles -l
+  138  mc
+  139  su root
+  140  su
+  141  ls -l
+  142  top
+  143  ps
+  144  vmstat
+  145  history | tail -5
+  146  history | grep True
+  147  ! 117
+  148  ! 98
+  149  conda config --set auto_activate_base True
+  150  history | grep False
+  151  conda config --set auto_activate_base False
+  152  history | grep source
+  153  history | grep sour
+  154  history | grep our
+  155  source ~/.bashrc
+  156  history | grep ue
+  157  conda config --set auto_activate_base True
+  158  source ~/.bashrc
+  159  history | grep ls
+  160  history > hist.txt
