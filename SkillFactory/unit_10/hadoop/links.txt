@@ -1,0 +1,11 @@
+1. zepellin
+g.kanavenko@gmail.com
+L3C57JvU
+
+2. Hadoop
+http://10.93.1.14/cluster
+skillfactory|4idDkLB9
+
+hosts:
+10.93.1.9       adh-master
+10.93.1.7       adh-client
