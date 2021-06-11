@@ -93,7 +93,7 @@ convertdate==2.2.0
 conx==3.7.10
 coverage==5.0.3
 crc32c==2.0
-cryptography==2.3.1
+cryptography==3.2
 cssselect2==0.2.2
 cufflinks==0.17.0
 CVXcanon==0.1.1
