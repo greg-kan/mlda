@@ -9,3 +9,8 @@ skillfactory|4idDkLB9
 hosts:
 10.93.1.9       adh-master
 10.93.1.7       adh-client
+
+3. MySQL
+base skillfactory
+пользователь mysql, пароль arenadata
+table cities

@@ -9,9 +9,9 @@
 
 -- DROP TABLE dwh_polygon.countries_of_the_world;
 
-CREATE TABLE dwh_polygon.countries_of_the_world (
-	coutry varchar(1024) NULL,
-	region varchar(1024) NULL,
+CREATE TABLE countries_of_the_world (
+	coutry varchar(256) NULL,
+	region varchar(256) NULL,
 	population int4 NULL,
 	area int4 NULL,
 	pop_density numeric(10,3) NULL,
@@ -36,9 +36,9 @@ CREATE TABLE dwh_polygon.countries_of_the_world (
 ------------------------------------------continent----------------------------------------
 -- DROP TABLE dwh_polygon.continent;
 
-CREATE TABLE dwh_polygon.continent (
-	country varchar(1024) NULL,
-	continent varchar(1024) NULL
+CREATE TABLE continent (
+	country varchar(256) NULL,
+	continent varchar(256) NULL
 );
 
 ------------------------------------------currency----------------------------------------
@@ -60,9 +60,9 @@ CREATE TABLE dwh_polygon.iso3 (
 ------------------------------------------country_name----------------------------------------
 -- DROP TABLE dwh_polygon.country_name;
 
-CREATE TABLE dwh_polygon.country_name (
-	country varchar(1024) NULL,
-	country_name varchar(1024) NULL
+CREATE TABLE country_name (
+	country varchar(256) NULL,
+	country_name varchar(256) NULL
 );
 
 ------------------------------------------country_phone_code----------------------------------------
@@ -76,11 +76,11 @@ CREATE TABLE dwh_polygon.country_phone_code (
 -------------------------------------------------------worldcitiespop-----------------------------------------------------------
 -- DROP TABLE dwh_polygon.worldcitiespop;
 
-CREATE TABLE dwh_polygon.worldcitiespop (
-	country varchar(1024) NULL,
-	city varchar(1024) NULL,
-	accentcity varchar(1024) NULL,
-	region varchar(100) NULL,
+CREATE TABLE worldcitiespop (
+	country varchar(256) NULL,
+	city varchar(256) NULL,
+	accentcity varchar(256) NULL,
+	region varchar(256) NULL,
 	latitude float8 NULL,
 	longitude float8 NULL
 );
