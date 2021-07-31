@@ -14,3 +14,10 @@ hosts:
 base skillfactory
 пользователь mysql, пароль arenadata
 table cities
+
+
+CREATE TABLE IF NOT EXISTS kanavenko_staging.capital(
+    ISO2_country string,
+    capital_names string )
+ROW FORMAT SERDE 'org.apache.hadoop.hive.serde2.JsonSerDe'
+STORED AS TEXTFILE;
