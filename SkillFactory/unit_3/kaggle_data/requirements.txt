@@ -632,7 +632,7 @@ typed-ast==1.4.0
 typing==3.6.4
 typing-extensions==3.7.4.1
 tzlocal==2.0.0
-ujson==1.35
+ujson==5.2.0
 umap-learn==0.3.10
 unicodecsv==0.14.1
 Unidecode==1.1.1
