@@ -19,6 +19,7 @@ dask @ file:///home/conda/feedstock_root/build_artifacts/dask-core_1658528993411
 debugpy @ file:///tmp/build/80754af9/debugpy_1637091799509/work
 decorator @ file:///opt/conda/conda-bld/decorator_1643638310831/work
 defusedxml @ file:///tmp/build/80754af9/defusedxml_1615228127516/work
+efficientnet @ git+https://github.com/qubvel/efficientnet@f7f3e736c113b872caf53dae9fbbda996a8eb87d
 entrypoints @ file:///tmp/build/80754af9/entrypoints_1649926439650/work
 executing @ file:///opt/conda/conda-bld/executing_1646925071911/work
 fastjsonschema @ file:///tmp/build/80754af9/python-fastjsonschema_1620414857593/work/dist
@@ -46,6 +47,7 @@ jupyter-client @ file:///opt/conda/conda-bld/jupyter_client_1650622202839/work
 jupyter-core @ file:///opt/conda/conda-bld/jupyter_core_1651671229925/work
 jupyterlab-pygments @ file:///tmp/build/80754af9/jupyterlab_pygments_1601490720602/work
 keras==2.9.0
+Keras-Applications==1.0.8
 Keras-Preprocessing==1.1.2
 kiwisolver @ file:///home/conda/feedstock_root/build_artifacts/kiwisolver_1657953076186/work
 libclang==14.0.1
