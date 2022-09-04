@@ -352,7 +352,7 @@ odfpy==1.4.1
 olefile==0.46
 onnx==1.6.0
 opencv-python==4.1.2.30
-opencv-python-headless==4.1.2.30
+opencv-python-headless==4.2.0.32
 openpyxl==3.0.2
 opt-einsum==3.1.0
 optuna==1.0.0
