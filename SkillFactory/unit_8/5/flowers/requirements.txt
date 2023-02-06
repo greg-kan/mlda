@@ -69,7 +69,7 @@ networkx @ file:///home/conda/feedstock_root/build_artifacts/networkx_1658215017
 notebook @ file:///opt/conda/conda-bld/notebook_1651734535442/work
 numexpr @ file:///opt/conda/conda-bld/numexpr_1656940300424/work
 numpy==1.23.1
-oauthlib==3.2.0
+oauthlib==3.2.2
 opt-einsum==3.3.0
 packaging @ file:///tmp/build/80754af9/packaging_1637314298585/work
 pandas==1.4.3
