@@ -1,4 +1,6 @@
-https://www.youtube.com/playlist?list=PL4_hYwCyhAvZLp0CTIDVQr9FtDR_7DaUr
+Курс ML
+https://www.youtube.com/watch?v=vO-TijhBT8E&list=PL4_hYwCyhAvY7k32D65q3xJVo8X8dc3Ye&index=1
+https://github.com/girafe-ai/ml-course
 
 https://keras.io/examples/nlp/question_answering/
 https://medium.com/nlplanet/two-minutes-nlp-quick-intro-to-question-answering-124a0930577c
