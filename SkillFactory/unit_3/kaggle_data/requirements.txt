@@ -51,7 +51,7 @@ branca==0.3.1
 brewer2mpl==1.4.1
 cachetools==4.0.0
 cairocffi==1.1.0
-CairoSVG==2.4.2
+CairoSVG==2.5.1
 Cartopy==0.17.0
 catalogue==1.0.0
 catalyst==20.1.1
