@@ -502,7 +502,7 @@ PyUpSet==0.1.1.post7
 pyviz-comms==0.7.3
 PyWavelets==1.1.1
 pyxdg==0.26
-PyYAML==5.2
+PyYAML==5.4
 pyzmq==18.1.0
 QDarkStyle==2.7
 qgrid==1.2.0
