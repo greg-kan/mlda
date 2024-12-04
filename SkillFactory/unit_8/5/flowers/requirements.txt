@@ -128,6 +128,6 @@ unicodedata2 @ file:///home/conda/feedstock_root/build_artifacts/unicodedata2_16
 urllib3==1.26.10
 wcwidth @ file:///Users/ktietz/demo/mc3/conda-bld/wcwidth_1629357192024/work
 webencodings==0.5.1
-Werkzeug==2.1.2
+Werkzeug==2.2.3
 wrapt==1.14.1
 zipp==3.8.1
