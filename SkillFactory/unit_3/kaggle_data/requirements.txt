@@ -654,7 +654,7 @@ wavio==0.0.4
 wcwidth==0.1.7
 webencodings==0.5.1
 websocket-client==0.57.0
-Werkzeug==0.16.0
+Werkzeug==2.2.3
 wfdb==2.2.1
 widgetsnbextension==3.5.1
 word2number==1.1
