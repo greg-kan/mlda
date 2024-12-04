@@ -17,7 +17,7 @@ bleach @ file:///opt/conda/conda-bld/bleach_1641577558959/work
 Bottleneck @ file:///opt/conda/conda-bld/bottleneck_1657175564434/work
 brotlipy @ file:///home/conda/feedstock_root/build_artifacts/brotlipy_1648854164373/work
 cachetools==5.2.0
-certifi==2022.6.15
+certifi==2022.12.7
 cffi @ file:///opt/conda/conda-bld/cffi_1642701102775/work
 charset-normalizer @ file:///home/conda/feedstock_root/build_artifacts/charset-normalizer_1655906222726/work
 click @ file:///home/conda/feedstock_root/build_artifacts/click_1651215153723/work
