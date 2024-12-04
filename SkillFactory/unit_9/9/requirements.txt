@@ -102,7 +102,7 @@ networkx @ file:///home/conda/feedstock_root/build_artifacts/networkx_1658215017
 notebook @ file:///opt/conda/conda-bld/notebook_1651734535442/work
 numexpr @ file:///opt/conda/conda-bld/numexpr_1656940300424/work
 numpy==1.23.1
-oauthlib==3.2.0
+oauthlib==3.2.2
 opencv-python==4.6.0.66
 opencv-python-headless==4.6.0.66
 opt-einsum==3.3.0
